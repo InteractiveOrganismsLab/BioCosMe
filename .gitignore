@@ -4,6 +4,7 @@ __pycache__/
 
 # Ignore Python env
 venv/
+myenv/
 
 # Ignore Training Results
 results/

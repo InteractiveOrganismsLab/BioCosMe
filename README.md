@@ -22,6 +22,14 @@ source myenv/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 ```
+Or try to install these pip packages
+```sh
+pip install torch
+pip install torchvision
+pip install opencv-python
+pip install matplotlib
+pip install scikit-learn
+```
 
 ### 2. Download Dataset
 
