@@ -39,50 +39,6 @@ class ImageFolderWithPaths(datasets.ImageFolder):
         return tuple_with_lab_and_path
 
 
-def dataloader_origin_test(base_path):
-    '''Load the dataset and split it into training and test sets'''
-
-    # Initialize transformations for data augmentation
-    transform = transforms.Compose([
-        transforms.Resize((324, 324)),
-        # transforms.CenterCrop(324),
-        transforms.RandomHorizontalFlip(),
-        transforms.RandomVerticalFlip(),
-        transforms.RandomCrop((224, 224)),
-        transforms.ToTensor(),
-    ])
-
-    # Load the ImageNet Object Localization Challenge dataset
-    origin_dataset = ImageFolderWithPaths(
-        root=base_path,
-        transform=transform
-    )
-
-    n = len(origin_dataset)  # total number of examples
-    n_test = int(0.1 * n)  # take ~10% for test
-    print('training: ', n-n_test, 'test: ', n_test)
-
-    train_dataset, test_dataset = torch.utils.data.random_split(
-        origin_dataset, [n-n_test, n_test])
-
-    return train_dataset, test_dataset
-
-
-def dataLoader_cross(origin_dataset, train_idx, val_idx):
-    '''Create data loaders for training and validation sets'''
-    batch_size = 8
-
-    train_dataset = Subset(origin_dataset, train_idx)
-    validation_dataset = Subset(origin_dataset, val_idx)
-
-    train_loader = DataLoader(
-        train_dataset, batch_size=batch_size, shuffle=True, num_workers=1)
-    valid_loader = DataLoader(
-        validation_dataset, batch_size=batch_size, shuffle=False, num_workers=1)
-
-    return train_loader, valid_loader
-
-
 def dataLoader(base_path):
     '''Load the dataset and split it into training, validation, and test sets, including data augmentation'''
     batch_size = 8
