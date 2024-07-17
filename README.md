@@ -25,6 +25,7 @@ pip install -r requirements.txt
 
 ### 2. Download Dataset
 
+Download Paper.zip from https://drive.google.com/drive/u/2/folders/1qq6l7d5GhKywF7OMcMr4rxqVE8LBk1ne
 Create a new folder named content and place the downloaded dataset folder inside content.
 ```sh
 mkdir content
