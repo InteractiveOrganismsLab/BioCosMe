@@ -1,6 +1,6 @@
 from data_loader import dataLoader
 from evaluations import evaluation
-from training import train
+from BioCosMe.MachineLearning.training import train
 import torch
 
 
