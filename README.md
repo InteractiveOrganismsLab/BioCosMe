@@ -66,11 +66,17 @@ python3 test.py
 ### Lipstick
 
 Ingredients:
+
 Commercial Lipstick Base from TKB (33.3%) https://tkbtrading.com/products/lip-stick-base
+
 Cetyl alcohol (8.3%) https://a.co/d/3L3egQI
+
 Non-Nano Titanium Dioxide (8.3%) https://a.co/d/bC0Dbmd
+
 Skin Safe Primer Adhesive (8.3%) https://a.co/d/55gygY8
+
 Clear Silver Mica Powder (8.3%) https://tkbtrading.com/collections/mica?utm_source=google&utm_medium=cpc&utm_campaign=shopping&tw_source=google&tw_adid=&tw_campaign=17686575245&gad_source=1&gclid=CjwKCAjwzIK1BhAuEiwAHQmU3tBe1-ueAhJVZIbTSuUVLRqkPKtolYCYwpfHtHFUPN45eAudbUZM-hoCZkAQAvD_BwE
+
 Red Cabbage Powder (33.3%) https://suncorefoods.com/products/cosmos-red-cabbage-powder
 
 
@@ -88,12 +94,19 @@ Red Cabbage Powder (33.3%) https://suncorefoods.com/products/cosmos-red-cabbage-
 ### Lipgloss
 
 Ingredients:
+
 Commercial Lipgloss Base from TKB (25%) https://tkbtrading.com/products/tkb-lip-gloss-base-flexagel?_pos=1&_sid=86a78b527&_ss=r
+
 Glycerin (8.3%) https://tkbtrading.com/collections/tkb-lip-gloss-versagel/products/glycerine
+
 Cetyl Octanoate (8.3%)
+
 Non-Nano Titanium Dioxide (8.3%)
+
 Skin Safe Primer Adhesive (8.3%)
+
 Clear Silver Mica Powder (8.3%)
+
 Red Cabbage Powder (33.3%)
 
 
@@ -112,11 +125,17 @@ Red Cabbage Powder (33.3%)
 ### Lip stain/tint
 
 Ingredients:
+
 30 g Red Cabbage Powder
+
 8 g Clear Silver Mica Powder 
+
 200 mL Deionized Water
+
 80 mL Vegetable Glycerin
+
 5 mL Phenoxyethanol https://a.co/d/9Vzw30U
+
 3 mL Polysorbate 80 6 oz https://a.co/d/a4YhhxH 
 
 
