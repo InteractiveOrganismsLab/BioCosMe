@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ChromaLipSense</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Howard Ku</string>
+    <string name="nav_header_subtitle">yku@ucdavis.edu</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Results</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_camera">Camera</string>
+
+    <string name="lip_camera">LipCamera</string>
+    <string name="lip_photo">LipCamera</string>
+
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="placeholder_success">Placeholder text</string>
+    <string name="mars_photo">Mars photo</string>
+
+    <string name="description_text">
+
+        Discover a revolutionary way to monitor your health with our personal lipstick-based biosensor. By simply applying our lipstick and capturing an image of your lips with our app, you can gain valuable insights into your health status based on lip color analysis.
+    </string>
+
+    <string name="ready_text">
+        Ready to begin? Click the green camera button to start your health check now!
+    </string>
+</resources>
