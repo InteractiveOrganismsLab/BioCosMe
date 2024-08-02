@@ -106,6 +106,8 @@ Our dataset comprises six users, eight different lighting conditions, three came
 
 [![BioCosMe Video](https://img.youtube.com/vi/JyYUplEyPks/0.jpg)](https://www.youtube.com/watch?v=JyYUplEyPks)
 
+[![YouTube](http://i.ytimg.com/vi/JyYUplEyPks/hqdefault.jpg)](https://www.youtube.com/watch?v=JyYUplEyPks)
+
 ## Contributing
 
 We welcome contributions to enhance the project. Please fork the repository and submit pull requests with your improvements. For major changes, please open an issue to discuss your proposal before making changes.
