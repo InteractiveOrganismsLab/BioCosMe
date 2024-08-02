@@ -104,9 +104,9 @@ Our dataset comprises six users, eight different lighting conditions, three came
 2. **Mobile Application**: Located in the `MobileApp` folder.
 3. **Dataset**: [Link](https://drive.google.com/drive/u/2/folders/1qq6l7d5GhKywF7OMcMr4rxqVE8LBk1ne).
 
-[![BioCosMe Video](https://img.youtube.com/vi/JyYUplEyPks/0.jpg)](https://www.youtube.com/watch?v=JyYUplEyPks)
+## BioCosMe Video
 
-[![YouTube](http://i.ytimg.com/vi/JyYUplEyPks/hqdefault.jpg)](https://www.youtube.com/watch?v=JyYUplEyPks)
+[![BioCosMe Video](https://img.youtube.com/vi/JyYUplEyPks/0.jpg)](https://www.youtube.com/watch?v=JyYUplEyPks)
 
 ## Contributing
 
