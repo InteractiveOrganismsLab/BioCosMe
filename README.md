@@ -116,6 +116,12 @@ We welcome contributions to enhance the project. Please fork the repository and 
 This material is based upon work supported by the National Science Foundation under Grant No 2146461, and UC Davis Academic
 Senate. We thank Yue Yu, Dana Mayfield, and Yulia Yu for their support in the design process, and Kaitlyn Tan for her assistance in video creation.
 
+## Cite our work
+
+ACM Reference Format:
+Shuyi Sun, Yuan-Hao Ku, Nicole Unsihuay, Omar Florez, Jae Yong Suk, Ali K. Yetisen, and Katia Vega. 2024. BioCosMe: Lip-based Cosmetics with Colorimetric Biosensors for Salivary Analysis using Deep Learning. 
+In Proceedings of the 2024 ACM International Symposium on Wearable Computers (ISWC ’24), October 5–9, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3675095.3676610
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
