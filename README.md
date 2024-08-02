@@ -110,6 +110,10 @@ Our dataset comprises six users, eight different lighting conditions, three came
 
 We welcome contributions to enhance the project. Please fork the repository and submit pull requests with your improvements. For major changes, please open an issue to discuss your proposal before making changes.
 
+## Acknowledgments
+This material is based upon work supported by the National Science Foundation under Grant No 2146461, and UC Davis Academic
+Senate. We thank Yue Yu, Dana Mayfield, and Yulia Yu for their support in the design process, and Kaitlyn Tan for her assistance in video creation.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
