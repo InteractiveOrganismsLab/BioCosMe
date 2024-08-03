@@ -6,7 +6,9 @@ This repository contains the study code for the paper "BioCosMe: Lip-based Cosme
 
 ## Overview
 
-**BioCosMe** introduces innovative lip-based biosensors designed for non-invasive health monitoring through colorimetric analysis. By leveraging the properties of lip products such as color variation and interaction with saliva, our approach provides real-time pH level detection, merging self-expression with health awareness.
+Previous research has explored Beauty Technology that merges cosmetics with electronics. We introduce a novel subfield in Human-Computer Interaction (HCI) known as **Biocosmetic interface**, which integrates cosmetics with biotechnology for health monitoring. This approach transforms the body surface into a dynamic display of biochemical reactions. It aims to enable the development of new biocosmetic interfaces that utilize beauty products to access typically unexplored bodily compartments, such as bodily fluids.
+
+This project introduces a novel **Biocosmetic interface** called **BioCosMe**, lip-based biosensors designed for non-invasive health monitoring through colorimetric analysis. By leveraging the properties of lip products such as color variation and interaction with saliva, our approach provides real-time pH level detection, merging self-expression with health awareness.
 
 ## Authors
 
