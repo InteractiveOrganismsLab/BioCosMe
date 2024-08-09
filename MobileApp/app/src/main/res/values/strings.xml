@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ChromaLipSense</string>
+    <string name="app_name">BioCosMe</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Howard Ku</string>
@@ -24,7 +24,7 @@
 
     <string name="description_text">
 
-        Discover a revolutionary way to monitor your health with our personal lipstick-based biosensor. By simply applying our lipstick and capturing an image of your lips with our app, you can gain valuable insights into your health status based on lip color analysis.
+        Discover a revolutionary way to monitor your health with our lipstick-based biosensor. Applying our lipstick and capturing an image of your lips with our app, you can gain insights into your health status based on lip color analysis.
     </string>
 
     <string name="ready_text">

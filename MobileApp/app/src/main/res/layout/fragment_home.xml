@@ -25,8 +25,8 @@
 
     <TextView
         android:id="@+id/description"
-        android:layout_width="308dp"
-        android:layout_height="295dp"
+        android:layout_width="299dp"
+        android:layout_height="277dp"
         android:text="@string/description_text"
         android:textAlignment="center"
         android:textColor="@color/gray"
@@ -34,10 +34,10 @@
         android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintHorizontal_bias="0.455"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.33" />
+        app:layout_constraintVertical_bias="0.286" />
 
     <TextView
         android:id="@+id/ready"
@@ -56,13 +56,27 @@
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="219dp"
+        android:layout_width="200dp"
         android:layout_height="113dp"
-        android:src="@drawable/icon_chroma"
+        android:src="@drawable/biocosmelipstick"
         app:layout_constraintBottom_toTopOf="@+id/ready"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/description" />
+        app:layout_constraintTop_toBottomOf="@+id/description"
+        app:layout_constraintVertical_bias="0.521" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="219dp"
+        android:layout_height="113dp"
+        android:src="@drawable/biocosmelips"
+        app:layout_constraintBottom_toTopOf="@+id/ready"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.958"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/description"
+        app:layout_constraintVertical_bias="0.521" />
 
     <Button
         android:id="@+id/buttonHistory"
